@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #a4edec;
+        font-family: 'Times New Roman', sans-serif;
+        flex-direction: column;
+    }
+}
